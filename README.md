@@ -384,36 +384,38 @@ Set the Preferred DNS server to the IP of your Server .Leave the IP settings as 
 
 1.Join the Domain:
 Click Start, type sysdm.cpl, and press Enter.
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/d3fd9821-d095-42e3-bd8b-c27704206dda" />
 
 Click Change... > Select Domain > Type dumebi.local.
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/434da567-5624-4963-a7b3-2618c05d940d" />
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/56eb77c0-ca45-4c3c-8303-c713428d9782" />
 
 
 
 
 
+Enter the Server's Admin credentials (DUMEBI\Administrator and your password).
+<img width="940" height="491" alt="image" src="https://github.com/user-attachments/assets/45dc50c2-5f32-47c3-8dca-45d86910f11c" />
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/c0af6fa4-a7e1-4a7c-8d07-8433916c503b" />
+<img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/ad3d98a2-177a-4126-b34d-8f049d344a50" />
 
 
+Restart the VM.
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/e1c93ac7-4480-41c7-bc15-b6c59552d846" />
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/2f517b1d-a2f3-4ed4-805d-26edc2631a78" />
 
-
-
-
-oEnter the Server's Admin credentials (DUMEBI\Administrator and your password).
-
-
-
-oRestart the VM.
 
 
 Login as Dumebi:
-oOn the login screen, select Other User.
+On the login screen, select Other User.
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/484b6f8a-0c3c-416b-a58b-90ca7c0f059a" />
 
 
 
 
 
-
-
-oLog in as dumebi\dumebi.chukwuma.
+Log in as dumebi\dumebi.chukwuma.
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/8fb6096b-332e-4730-9bec-efdc7795cbdb" />
 
 
 
